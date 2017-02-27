@@ -9399,7 +9399,7 @@ header {
   z-index: 1;
   transition: all 0.4s ease; }
   header #header-img {
-    background-image: url(../img/header.jpg);
+    background-image: url(http://localhost/wordpress/wp-content/themes/robledo-presidente/img/header.jpg);
     background-position: center center;
     background-size: cover;
     height: 25vw;
@@ -9415,7 +9415,7 @@ header {
       margin-top: .5vw; }
   header .navbar {
     background-color: white;
-    background-image: url(../img/header-line.png);
+    background-image: url(http://localhost/wordpress/wp-content/themes/robledo-presidente/img/header-line.png);
     background-repeat: no-repeat;
     background-size: 100%;
     padding-top: 1rem; }
